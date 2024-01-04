@@ -1,0 +1,26 @@
+[
+  {
+    "chatId": "1",
+    "chatPictureUrl": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Chat+1",
+    "chatName": "Chat 1",
+    "lastMessage": "Hello there!",
+    "unreadMessages": 2,
+    "lastMessageDate": "2022-01-05T13:00:00Z"
+  },
+  {
+    "chatId": "2",
+    "chatPictureUrl": "https://via.placeholder.com/150/3498db/FFFFFF?text=Chat+2",
+    "chatName": "Chat 2",
+    "lastMessage": "How's it going?",
+    "unreadMessages": 0,
+    "lastMessageDate": "2022-01-05T14:00:00Z"
+  },
+  {
+    "chatId": "3",
+    "chatPictureUrl": "https://via.placeholder.com/150/2ecc71/FFFFFF?text=Chat+3",
+    "chatName": "Chat 3",
+    "lastMessage": "Flutter is awesome!",
+    "unreadMessages": 5,
+    "lastMessageDate": "2022-01-05T15:00:00Z"
+  }
+]

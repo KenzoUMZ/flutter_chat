@@ -1,0 +1,80 @@
+[
+  {
+    "author": {
+      "firstName": "Sender",
+      "id": "1",
+      "lastName": "Lastname"
+    },
+    "createdAt": 1641388800000,
+    "id": "1",
+    "status": "sent",
+    "text": "Hello, how are you?",
+    "type": "text",
+    "date": "2022-01-05T08:00:00Z"
+  },
+  {
+    "author": {
+      "firstName": "Receiver",
+      "id": "2",
+      "lastName": "LastName"
+    },
+    "createdAt": 1641392400000,
+    "id": "2",
+    "status": "received",
+    "text": "Hi! I'm doing well, thank you. How about you?",
+    "type": "text",
+    "date": "2022-01-05T09:00:00Z"
+  },
+  {
+    "author": {
+      "firstName": "Sender",
+      "id": "1",
+      "lastName": "Lastname"
+    },
+    "createdAt": 1641396000000,
+    "id": "3",
+    "status": "sent",
+    "text": "I'm good too. Just working on some Flutter code.",
+    "type": "text",
+    "date": "2022-01-05T10:00:00Z"
+  },
+  {
+    "author": {
+      "firstName": "Receiver",
+      "id": "2",
+      "lastName": "LastName"
+    },
+    "createdAt": 1641399600000,
+    "id": "4",
+    "status": "received",
+    "text": "That's great! Flutter is awesome. Anything specific you're working on?",
+    "type": "text",
+    "date": "2022-01-05T11:00:00Z"
+  },
+  {
+    "author": {
+      "firstName": "Sender",
+      "id": "1",
+      "lastName": "Lastname"
+    },
+    "createdAt": 1641403200000,
+    "id": "5",
+    "status": "sent",
+    "text": "I'm building a chat app, actually!",
+    "type": "text",
+    "date": "2022-01-05T12:00:00Z"
+  },
+  {
+    "author": {
+      "firstName": "Receiver",
+      "id": "2",
+      "lastName": "LastName"
+    },
+    "createdAt": 1641406800000,
+    "id": "6",
+    "status": "received",
+    "text": "That sounds cool! Flutter makes it easy. Good luck with your project!",
+    "type": "text",
+    "date": "2022-01-05T13:00:00Z"
+  }
+]
